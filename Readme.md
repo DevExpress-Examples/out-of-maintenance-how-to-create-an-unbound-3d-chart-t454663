@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/Chart3DSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart3DSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to create an unbound 3D chart
 
 
